@@ -1,3 +1,4 @@
+{% include anchor_links.html %}
 # MSFragger
 MSFragger is an ultrafast database search tool for peptide identifications in mass spectrometry-based proteomics. MSFragger has demonstrated excellent performance across a wide range of datasets and applications. The speed of MSFragger makes it particularly suitable for the analysis of large datasets (including timsTOF data), for enzyme unconstrained searches, and for ‘open’ database searches (with the precursor mass tolerance set to hundreds of Daltons) for identification of modified peptides. 
 
